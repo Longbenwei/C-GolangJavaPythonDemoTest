@@ -1,0 +1,23 @@
+﻿生成启动时间为 2024/11/23 0:10:41。
+日志记录详细程度设置为: Normal。     1>项目“D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\TestONEWC++.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
+       InitializeBuildStatus:
+         正在创建“x64\Debug\TestONEWC++.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+         正在对“x64\Debug\TestONEWC++.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt TestONEWC++.cpp
+         TestONEWC++.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\x64\Debug\TestONEWC++.exe" /INCREMENTAL /ILK:"x64\Debug\TestONEWC++.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\x64\Debug\TestONEWC++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\x64\Debug\TestONEWC++.lib" /MACHINE:X64 x64\Debug\TestONEWC++.obj
+         TestONEWC++.vcxproj -> D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\x64\Debug\TestONEWC++.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\TestONEWC++.tlog\unsuccessfulbuild”。
+         正在对“x64\Debug\TestONEWC++.tlog\TestONEWC++.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\githubCode\C-GolangJavaPythonDemoTest\C++\TestONEWC++\TestONEWC++.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.34
